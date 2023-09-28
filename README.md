@@ -22,7 +22,7 @@ Learn more about F' key features [here](https://nasa.github.io/fprime/features.h
 
 ## System Requirements
 
-1. Linux, Windows with WSL, or macOS operating system
+1. Linux, Windows with WSL, or macOS operating system.
 2. git
 3. [CMake 3.16+](https://cmake.org/download/). CLI tool must be available on the system path.
 4. CLang or GNU C and C++ compilers (e.g. gcc and g++)
