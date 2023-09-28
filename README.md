@@ -53,7 +53,7 @@ To ask questions, discuss improvements, and ask for help please use the project'
 ### Bug reports
 To report bugs and issues, [open an issue here](https://github.com/nasa/fprime/issues).
 ### Community
-The [F´ Community](https://github.com/fprime-community) GitHub Organization contains third party contributions, more documentation of flight software development, and additional resources.
+The [F´ Community](https://github.com/fprime-community) GitHub Organization contains third party contributions, more documentation of flight software development, and additional resources
 
 
 ## Resources
